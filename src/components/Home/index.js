@@ -106,7 +106,7 @@ class Home extends Component {
                     <h1 className="banner-head">Discover Exciting Events Happening <br />
                         Near you-Stay Tuned for Updates!
                     </h1>
-                    <p className="bannera-para">lorem bjknskln kndowjdpoqwd idwndpowjpdojwpd gwdiohqdwpojdp bioboaisncoas ibdasiodhaodp dbsdug dhsi jnd
+                    <p className="bannera-para">lorem bjknskln kndowjdpoqwd idwndpowjpdojwpd gwdiohqdwpojdp bioboaisncoas ibdasiodhaodp dbsdug dhsi jnd bcjbkcjnsck !.
 
                     </p>
                 </div>
