@@ -1,0 +1,144 @@
+
+.recCard {
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    margin-right: 20px;
+    border-radius: 30px;
+    padding: 30px;
+    border: none;
+    
+}
+
+.name-head{
+    font-size:10px;
+    color:white;
+    color:#1E2022;
+}
+.icon{
+    width:10px;
+    height:10px;
+    color:#989090;
+    padding-left: 0px;
+   
+    
+}
+.cardUnderThree{
+    color:white;
+    color:#989090;
+}
+   
+
+.date-text{
+    color:white;
+    font-size:6px;
+    color:#989090;
+}
+.name-text{
+    color:white;
+    font-size: 8px;
+    color:#989090;
+}
+
+.weather-text{
+    color:white;
+    font-size:7px;
+    color:#989090;
+
+}
+/* .content-container{
+    display: flex;
+    justify-content: space-between;
+   
+} */
+.city-head{
+    color:white;
+    font-size:10px;
+    color:#1E2022;
+
+}
+.first-content-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.location-and-weather{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.locat{
+    display: flex;
+    justify-content: center;
+}
+.recCardContainer {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    padding: 20px; /* Add padding for better spacing */
+  }
+  
+
+  .recCard {
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    margin-right: 20px;
+    border-radius: 30px;
+    padding: 30px;
+    border: none;
+}
+
+.name-head {
+    font-size: 10px;
+    color: #1E2022;
+}
+
+.icon {
+    width: 10px;
+    height: 10px;
+    color: #989090;
+    padding-left: 0px;
+}
+
+.date-text {
+    font-size: 6px;
+    color: #989090;
+}
+
+.name-text {
+    font-size: 8px;
+    color: #989090;
+}
+
+.weather-text {
+    font-size: 7px;
+    color: #989090;
+}
+
+.content-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.location-and-weather {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.locat {
+    display: flex;
+    justify-content: center;
+}
+
+.recCardContainer {
+    display: flex;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    padding: 20px; /* Add padding for better spacing */
+}

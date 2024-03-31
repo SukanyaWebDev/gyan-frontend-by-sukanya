@@ -1,0 +1,221 @@
+
+.home-main-container {
+    background-image: url("https://res.cloudinary.com/dxorhiaeo/image/upload/v1711820101/Banner_cjphyq.svg");
+    height: 100vh;
+    width: 100vw;
+    background-image: cover;
+
+}
+
+.banner-head {
+    color: #ffffff;
+  
+
+}
+
+.bannera-para {
+    color:white;
+
+}
+
+.thirdContainer {
+
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cardDisplay {
+    display: flex;
+
+    flex-direction: row;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    padding: 20px; /* Add padding for better spacing */
+    margin-top:250px; 
+        
+}
+
+
+
+
+.secCon {
+    position: relative;
+    z-index: 1; /* Ensure secCon is below topCon */
+    top:-50px;
+    width:100%;
+    display: flex;
+    flex-direction: row; flex-wrap: wrap;
+    /* align-items: center;
+    justify-content: center; */
+    
+   
+    
+}
+.secCon h1{
+    color:black;
+    margin-top:69px;
+
+}
+/* .events-const{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+.icon{
+    width:40px;
+    height: 40px;
+    margin-top: 50px;
+}
+
+.bottom-card-container {
+    margin-top:0px; /* Adjust as needed to position the bottom card below the top card */
+    width: 100%;
+    border: 1px solid gray;
+    font-display: flex;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 70px;
+   
+}
+.recom-head{
+    color:#1E2022;
+ color: #ffffff;
+
+
+ 
+
+}
+
+.bannera-para {
+    color: #989090;
+    
+
+
+}
+
+.thirdContainer {
+
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;;
+}
+.topCon{
+    display: flex;
+    flex-direction: column;
+    
+}
+.cardDisplay {
+    display: flex;
+
+    flex-direction: row;
+    width:100%;
+    margin-top: 0px;
+    display: flex;
+
+    flex-direction: row;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    padding: 30px; /* Add padding for better spacing */
+   
+}
+
+
+
+.testingDiv {
+    width: 100%;
+
+}
+
+.banner-section {
+    text-align: center;
+    background-image: url("https://res.cloudinary.com/dxorhiaeo/image/upload/v1711820101/Banner_cjphyq.svg");
+    background-size: cover;
+    width: 98%;
+    height: 500px;
+
+
+}
+
+.show {
+    color:#1E2022;
+    color: #ffffff;
+    
+}
+.topCon{
+    position: absolute;
+}
+.secCon{
+    position: auto;
+}
+
+.floatingCard {
+    padding: 90px;
+    position: relative
+   
+   
+}
+
+.banner-section h1 {
+    color:#1E2022;
+    color: #cad4de;
+    
+}
+
+.floatingCard {
+    position: relative;
+    width: 100%;
+}
+
+.topCon {
+    position: relative;
+    z-index: 2; /* Ensure topCon is on top */
+    top: -233px
+}
+
+.secCon {
+    position: relative;
+    z-index: 1; /* Ensure secCon is below topCon */
+    top:-50px;
+    width:100%;
+    display: flex;
+    flex-direction: row; flex-wrap: wrap;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.bottom-card-container {
+    margin-top: -50px; /* Adjust as needed to position the bottom card below the top card */
+    width: 100%;
+    border: 1px solid gray;
+    font-display: flex;
+}
+
+.upcomin-head{
+    margin-bottom: 60px;
+    margin-top: 0px;
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
